@@ -1,0 +1,7334 @@
+{
+    "*1": {
+        "subject": "Computer Architecture and Organization",
+        "teachers": [
+            "Моника Симјаноска"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*2": {
+        "subject": "Discrete Mathematics",
+        "teachers": [
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*3": {
+        "subject": "Discrete Mathematics",
+        "teachers": [
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*4": {
+        "subject": "Human-computer interaction design",
+        "teachers": [
+            "Соња Гиевска"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*5": {
+        "subject": "ICT Project Management",
+        "teachers": [
+            "Владимир Здравески"
+        ],
+        "classes": [
+            "4y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*6": {
+        "subject": "Integrated Systems",
+        "teachers": [
+            "Александар Стојменски"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*7": {
+        "subject": "Object oriented programming",
+        "teachers": [
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*8": {
+        "subject": "Operating systems",
+        "teachers": [
+            "Јована Добрева"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*9": {
+        "subject": "Operating systems",
+        "teachers": [
+            "Милош Јовановиќ"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*10": {
+        "subject": "Software quality and testing",
+        "teachers": [
+            "Бојана Котеска"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*11": {
+        "subject": "Software quality and testing",
+        "teachers": [
+            "Бојана Котеска"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*12": {
+        "subject": "Software requirements analysis",
+        "teachers": [
+            "Љупчо Антовски"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*13": {
+        "subject": "Software requirements analysis",
+        "teachers": [
+            "Љупчо Антовски"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*14": {
+        "subject": "Администрација на мрежи",
+        "teachers": [
+            "Александра Дединец"
+        ],
+        "classes": [
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*15": {
+        "subject": "Администрација на мрежи",
+        "teachers": [
+            "Александра Дединец"
+        ],
+        "classes": [
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*16": {
+        "subject": "Алгоритми и сложеност/Дизајн на алгоритми",
+        "teachers": [
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA",
+            "2г. СИИС-2",
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*17": {
+        "subject": "Алгоритми и сложеност/Дизајн на алгоритми",
+        "teachers": [
+            "Марија Михова"
+        ],
+        "classes": [
+            "2y. SEIS/KNIA",
+            "2г. СИИС-2",
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*18": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Билјана Стојкоска Ристеска"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*19": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Владимир Здравески"
+        ],
+        "classes": [
+            "1г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*20": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Војдан Ќорвезироски"
+        ],
+        "classes": [
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*21": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Дејан Спасов"
+        ],
+        "classes": [
+            "1г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*22": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Игор Мишковски"
+        ],
+        "classes": [
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*23": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Јана Кузманова"
+        ],
+        "classes": [
+            "1г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*24": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Јана Кузманова"
+        ],
+        "classes": [
+            "1г. ПИТ-1",
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*25": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Јована Добрева"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*26": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Јована Добрева"
+        ],
+        "classes": [
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*27": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Љупчо Антовски"
+        ],
+        "classes": [
+            "1г. ПИТ-1",
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*28": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Магдалена Костоска Ѓорчевска"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*29": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Марјан Гушев"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*30": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Мирослав Мирчев"
+        ],
+        "classes": [
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*31": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*32": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*33": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*34": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "1г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*35": {
+        "subject": "Архитектура и организација на компјутери",
+        "teachers": [
+            "Сашо Граматиков"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*36": {
+        "subject": "Безжични и мобилни системи",
+        "teachers": [
+            "Анастас Мишев"
+        ],
+        "classes": [
+            "2г. ИМБ"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*37": {
+        "subject": "Безжични и мобилни системи",
+        "teachers": [
+            "Војдан Ќорвезироски"
+        ],
+        "classes": [
+            "2г. ИМБ"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*38": {
+        "subject": "Безжични мултимедиски системи",
+        "teachers": [
+            "Милош Јовановиќ"
+        ],
+        "classes": [
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*39": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Александра Поповска Митровиќ"
+        ],
+        "classes": [
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*40": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Александра Поповска Митровиќ"
+        ],
+        "classes": [
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*41": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Весна Димитриевска Ристовска"
+        ],
+        "classes": [
+            "1г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*42": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Весна Димитриевска Ристовска"
+        ],
+        "classes": [
+            "1г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*43": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Методија Јанчески"
+        ],
+        "classes": [
+            "1г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*44": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Методија Јанчески"
+        ],
+        "classes": [
+            "1г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*45": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Наташа Илиевска"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*46": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Сијче Печкова"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*47": {
+        "subject": "Биолошки инспирирано пресметување",
+        "teachers": [
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "4г. КН"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*48": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Андреа Кулаков",
+            "Соња Гиевска",
+            "Кире Триводалиев"
+        ],
+        "classes": [
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "310",
+            "name": "310 МФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*49": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Андреа Кулаков",
+            "Соња Гиевска",
+            "Кире Триводалиев"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. ПИТ-3",
+            "2г. ПИТ-1",
+            "2г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*50": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Андреа Кулаков",
+            "Соња Гиевска",
+            "Кире Триводалиев"
+        ],
+        "classes": [
+            "2г. СИИС-1",
+            "2y. SEIS/KNIA",
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*51": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Мартина Тошевска",
+            "Јана Кузманова"
+        ],
+        "classes": [
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*52": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Мартина Тошевска",
+            "Јана Кузманова"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. ПИТ-3",
+            "2г. ПИТ-1",
+            "2г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "310",
+            "name": "310 МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*53": {
+        "subject": "Вештачка интелигенција",
+        "teachers": [
+            "Мартина Тошевска",
+            "Јана Кузманова"
+        ],
+        "classes": [
+            "2г. СИИС-1",
+            "2y. SEIS/KNIA",
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*54": {
+        "subject": "Виртуелна реалност",
+        "teachers": [
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "4г. КН",
+            "4г. Останати",
+            "4г. СИИС",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*55": {
+        "subject": "Вовед во екоинформатиката",
+        "teachers": [
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "2г. ИМБ",
+            "2г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*56": {
+        "subject": "Вовед во екоинформатиката",
+        "teachers": [
+            "Коста Митрески",
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "2г. ИМБ",
+            "2г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*57": {
+        "subject": "Географски информациски системи",
+        "teachers": [
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "4г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*58": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Билјана Тојтовска Рибарски",
+            "Емил Станков"
+        ],
+        "classes": [
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*59": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Билјана Тојтовска Рибарски",
+            "Сијче Печкова"
+        ],
+        "classes": [
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*60": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Весна Димитриевска Ристовска"
+        ],
+        "classes": [
+            "1г. ИМБ-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*61": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Дејан Спасов"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*62": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Емил Станков"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*63": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Емил Станков"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*64": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Методија Јанчески"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*65": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Методија Јанчески"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*66": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Наташа Илиевска"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*67": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Петар Секулоски"
+        ],
+        "classes": [
+            "1г. ИМБ-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*68": {
+        "subject": "Дискретна математика 2",
+        "teachers": [
+            "Миле Јованов",
+            "Наташа Илиевска"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*69": {
+        "subject": "Дискретна математика 2",
+        "teachers": [
+            "Наташа Илиевска"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*70": {
+        "subject": "Дискретни структури 2",
+        "teachers": [
+            "Марија Михова"
+        ],
+        "classes": [
+            "1г. КН-2",
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*71": {
+        "subject": "Дискретни структури 2",
+        "teachers": [
+            "Сијче Печкова"
+        ],
+        "classes": [
+            "1г. КН-2",
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*72": {
+        "subject": "Етичко хакирање",
+        "teachers": [
+            "Анастас Мишев",
+            "Христина Михајлоска"
+        ],
+        "classes": [
+            "4г. ПИТ",
+            "4г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*73": {
+        "subject": "Етичко хакирање",
+        "teachers": [
+            "Војдан Ќорвезироски"
+        ],
+        "classes": [
+            "4г. ПИТ",
+            "4г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*74": {
+        "subject": "ИТ системи за учење",
+        "teachers": [
+            "Мартина Тошевска"
+        ],
+        "classes": [
+            "1г. КЕ",
+            "2г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*75": {
+        "subject": "ИТ системи за учење",
+        "teachers": [
+            "Миле Јованов"
+        ],
+        "classes": [
+            "1г. КЕ",
+            "2г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*76": {
+        "subject": "Калкулус",
+        "teachers": [
+            "Весна Димитриевска Ристовска"
+        ],
+        "classes": [
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*77": {
+        "subject": "Калкулус",
+        "teachers": [
+            "Петар Секулоски"
+        ],
+        "classes": [
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*78": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Александра Поповска Митровиќ"
+        ],
+        "classes": [
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*79": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Верица Бакева"
+        ],
+        "classes": [
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*80": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Петар Секулоски"
+        ],
+        "classes": [
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*81": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Петар Секулоски"
+        ],
+        "classes": [
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "310",
+            "name": "310 МФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*82": {
+        "subject": "Компјутерски компоненти",
+        "teachers": [
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*83": {
+        "subject": "Компјутерски компоненти",
+        "teachers": [
+            "Коста Митрески",
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*84": {
+        "subject": "Концепти на информатичко општество",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2г. КИ",
+            "2y. SEIS/KNIA",
+            "2г.  КН",
+            "2г. ИМБ",
+            "2г. Останати",
+            "2г. ПИТ-5",
+            "2г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*85": {
+        "subject": "Концепти на информатичко општество",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "2г. ПИТ-3",
+            "2г. ПИТ-2",
+            "2г. СИИС-2",
+            "2г. СИИС-1",
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*86": {
+        "subject": "Креативни вештини за решавање проблеми",
+        "teachers": [
+            "Владимир Трајковиќ"
+        ],
+        "classes": [
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*87": {
+        "subject": "Креативни вештини за решавање проблеми",
+        "teachers": [
+            "Славе Темков"
+        ],
+        "classes": [
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*88": {
+        "subject": "Криптографија",
+        "teachers": [
+            "Весна Димитрова",
+            "Христина Михајлоска"
+        ],
+        "classes": [
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*89": {
+        "subject": "Методика на информатиката со хоспитации",
+        "teachers": [
+            "Ана Мадевска Богданова"
+        ],
+        "classes": [
+            "4г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*90": {
+        "subject": "Мобилни апликации",
+        "teachers": [
+            "Петре Ламески"
+        ],
+        "classes": [
+            "4г. СИИС",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "20:00 - 20:45",
+                "startTime": "20:00",
+                "endTime": "20:45"
+            }
+        }
+    },
+    "*91": {
+        "subject": "Моделирање на бизнис процеси / Моделирање и менаџирање на бизнис процеси",
+        "teachers": [
+            "Георгина Мирчева"
+        ],
+        "classes": [
+            "3г. Останати",
+            "4г. ПИТ",
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*92": {
+        "subject": "Неструктурирани бази на податоци",
+        "teachers": [
+            "Слободан Калајџиски"
+        ],
+        "classes": [
+            "4г. КН",
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*93": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Мартина Тошевска",
+            "Славе Темков"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*94": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Мартина Тошевска",
+            "Славе Темков"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*95": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Мартина Тошевска",
+            "Славе Темков"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*96": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Мартина Тошевска",
+            "Славе Темков"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*97": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Слободан Калајџиски",
+            "Кире Триводалиев",
+            "Петре Ламески",
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*98": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Слободан Калајџиски",
+            "Кире Триводалиев",
+            "Петре Ламески",
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*99": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Слободан Калајџиски",
+            "Кире Триводалиев",
+            "Петре Ламески",
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*100": {
+        "subject": "Објектно ориентирана анализа и дизајн",
+        "teachers": [
+            "Слободан Калајџиски",
+            "Кире Триводалиев",
+            "Петре Ламески",
+            "Илинка Иваноска"
+        ],
+        "classes": [
+            "1г. Останати"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*101": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Александар Стојменски"
+        ],
+        "classes": [
+            "1г. ПИТ-4",
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*102": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Александар Стојменски"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*103": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Александар Стојменски"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*104": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Александар Тенев"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*105": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Александар Тенев"
+        ],
+        "classes": [
+            "1г. ПИТ-3",
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*106": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Ана Мадевска Богданова"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*107": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Ана Мадевска Богданова"
+        ],
+        "classes": [
+            "1г. ПИТ-2",
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*108": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*109": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*110": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*111": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Дејан Ѓорѓевиќ"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*112": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. ПИТ-2",
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*113": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Ѓорѓи Маџаров"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*114": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Иван Чорбев"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*115": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Ивица Димитровски"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*116": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*117": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Невена Ацковска"
+        ],
+        "classes": [
+            "1г. ПИТ-4",
+            "1г. КН-2"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*118": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*119": {
+        "subject": "Објектно-ориентирано програмирање",
+        "teachers": [
+            "Христина Михајлоска"
+        ],
+        "classes": [
+            "1г. ПИТ-3",
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*120": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "2г.  КН",
+            "2г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*121": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*122": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. Останати",
+            "2г. КИ"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*123": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Боро Јакимовски"
+        ],
+        "classes": [
+            "2г. ПИТ-2",
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*124": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Весна Димитрова"
+        ],
+        "classes": [
+            "2г.  КН",
+            "2г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*125": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "2г. ИМБ",
+            "2г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*126": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Димитар Трајанов",
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*127": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Игор Мишковски"
+        ],
+        "classes": [
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*128": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*129": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Невена Ацковска"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. Останати",
+            "2г. КИ"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*130": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "2г. ПИТ-2",
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*131": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Ристе Стојанов"
+        ],
+        "classes": [
+            "2г. ИМБ",
+            "2г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*132": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Влатко Спасев",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. СИИС-3",
+            "1г. ПИТ-1",
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*133": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Влатко Спасев",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*134": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Иван Чорбев",
+            "Слободан Калајџиски",
+            "Гоце Арменски",
+            "Иван Китановски",
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. СИИС-1",
+            "1г. ПИТ-2",
+            "1г. ИМБ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*135": {
+        "subject": "Основи на компјутерска графика/Компјутерска графика",
+        "teachers": [
+            "Сузана Лошковска"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*136": {
+        "subject": "Основи на сајбер безбедноста",
+        "teachers": [
+            "Анастас Мишев"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*137": {
+        "subject": "Основи на сајбер безбедноста",
+        "teachers": [
+            "Анастас Мишев"
+        ],
+        "classes": [
+            "1г. ИМБ-2",
+            "1г. СИИС-1",
+            "1г. СИИС-3",
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*138": {
+        "subject": "Основи на сајбер безбедноста",
+        "teachers": [
+            "Војдан Ќорвезироски"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*139": {
+        "subject": "Основи на сајбер безбедноста",
+        "teachers": [
+            "Војдан Ќорвезироски"
+        ],
+        "classes": [
+            "1г. ИМБ-2",
+            "1г. СИИС-1",
+            "1г. СИИС-3",
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*140": {
+        "subject": "Податочно рударење",
+        "teachers": [
+            "Билјана Тојтовска Рибарски",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*141": {
+        "subject": "Претприемништво",
+        "teachers": [
+            "Владимир Трајковиќ"
+        ],
+        "classes": [
+            "4y. SEIS/KNIA",
+            "4г. Останати",
+            "4г. СИИС",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "Амф Педагаошка",
+            "name": "Амфитеатар Педагаошка"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*142": {
+        "subject": "Сензорски системи",
+        "teachers": [
+            "Билјана Стојкоска Ристеска"
+        ],
+        "classes": [
+            "3г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*143": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Јана Кузманова",
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г.  КН",
+            "2г. ИМБ",
+            "2г. КИ"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*144": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Јана Кузманова",
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "310",
+            "name": "310 МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*145": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Јана Кузманова",
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г. ПИТ-2",
+            "2г. Останати"
+        ],
+        "classroom": {
+            "short": "Амф ТМФ",
+            "name": "Амфитеатар ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*146": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Јана Кузманова",
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г. ПИТ-3",
+            "2г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*147": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Јана Кузманова",
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*148": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Катерина Здравкова",
+            "Дејан Ѓорѓевиќ",
+            "Ѓорѓи Маџаров",
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "2г.  КН",
+            "2г. ИМБ",
+            "2г. КИ"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*149": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Катерина Здравкова",
+            "Дејан Ѓорѓевиќ",
+            "Ѓорѓи Маџаров",
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*150": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Катерина Здравкова",
+            "Дејан Ѓорѓевиќ",
+            "Ѓорѓи Маџаров",
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "2г. ПИТ-2",
+            "2г. Останати"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*151": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Катерина Здравкова",
+            "Дејан Ѓорѓевиќ",
+            "Ѓорѓи Маџаров",
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "2г. ПИТ-3",
+            "2г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*152": {
+        "subject": "Софтверско инженерство",
+        "teachers": [
+            "Катерина Здравкова",
+            "Дејан Ѓорѓевиќ",
+            "Ѓорѓи Маџаров",
+            "Катарина Тројачанец Динева"
+        ],
+        "classes": [
+            "2г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "225",
+            "name": "225 МФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*153": {
+        "subject": "Компјутерски архитектури",
+        "teachers": [
+            "Моника Симјаноска",
+            "Јована Добрева"
+        ],
+        "classes": [
+            "1г. КИ",
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*154": {
+        "subject": "Компјутерски архитектури",
+        "teachers": [
+            "Моника Симјаноска",
+            "Јована Добрева"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*155": {
+        "subject": "Компјутерски архитектури",
+        "teachers": [
+            "Ристе Стојанов",
+            "Моника Симјаноска"
+        ],
+        "classes": [
+            "1г. ИМБ-1",
+            "1г. ИМБ-2"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*156": {
+        "subject": "Компјутерски архитектури",
+        "teachers": [
+            "Ристе Стојанов",
+            "Моника Симјаноска"
+        ],
+        "classes": [
+            "1г. КИ",
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*157": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Александар Тенев"
+        ],
+        "classes": [
+            "1г. ПИТ-2",
+            "1г. ПИТ-1",
+            "1г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*158": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Александар Тенев"
+        ],
+        "classes": [
+            "1г. ПИТ-4",
+            "1г. ИМБ-2",
+            "1г. КИ",
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*159": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Иван Чорбев",
+            "Слободан Калајџиски",
+            "Гоце Арменски",
+            "Иван Китановски",
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. КЕ",
+            "1г. ИМБ-2",
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*160": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Иван Чорбев",
+            "Слободан Калајџиски",
+            "Гоце Арменски",
+            "Иван Китановски",
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. КИ",
+            "1y. SEIS/KNIA",
+            "1г. ПИТ-4",
+            "1г. КН-2",
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*161": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Иван Чорбев",
+            "Слободан Калајџиски",
+            "Гоце Арменски",
+            "Иван Китановски",
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. ПИТ-5",
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*162": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Иван Чорбев",
+            "Слободан Калајџиски",
+            "Гоце Арменски",
+            "Иван Китановски",
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "1г. СИИС-3",
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*163": {
+        "subject": "Медиуми и комуникации",
+        "teachers": [
+            "Владимир Трајковиќ"
+        ],
+        "classes": [
+            "2г.  КН",
+            "2г. Останати",
+            "2г. ПИТ-5",
+            "2y. SEIS/KNIA",
+            "2г. ПИТ-4",
+            "2г. ПИТ-3",
+            "2г. ПИТ-2",
+            "2г. ИМБ",
+            "2г. СИИС-2",
+            "2г. СИИС-1",
+            "2г. СИИС-3",
+            "2г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Амф Педагаошка",
+            "name": "Амфитеатар Педагаошка"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*164": {
+        "subject": "Концепти на информатичко општество",
+        "teachers": [
+            "Владимир Здравески"
+        ],
+        "classes": [
+            "2г. ПИТ-3",
+            "2г. ПИТ-2",
+            "2г. СИИС-1",
+            "2г. ПИТ-1",
+            "2y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*165": {
+        "subject": "Концепти на информатичко општество",
+        "teachers": [
+            "Горан Велинов"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2г. КИ",
+            "2г.  КН",
+            "2г. ИМБ",
+            "2г. Останати",
+            "2г. ПИТ-5",
+            "2г. ПИТ-4",
+            "2г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*166": {
+        "subject": "Обработка на слика/Дигитално процесирање на слика",
+        "teachers": [
+            "Ивица Димитровски"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. СИИС-1",
+            "2г.  КН",
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*167": {
+        "subject": "е-Влада",
+        "teachers": [
+            "Георгина Мирчева"
+        ],
+        "classes": [
+            "2г. ПИТ-1",
+            "3г. Останати",
+            "2y. SEIS/KNIA",
+            "2г. ПИТ-5"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*168": {
+        "subject": "е-Влада",
+        "teachers": [
+            "Смилка Јанеска Саркањац"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2г. ИМБ",
+            "2г. СИИС-2",
+            "2г. ПИТ-4",
+            "2г. КИ",
+            "2г.  КН",
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*169": {
+        "subject": "е-Влада",
+        "teachers": [
+            "Смилка Јанеска Саркањац"
+        ],
+        "classes": [
+            "2г. ПИТ-2",
+            "2г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*170": {
+        "subject": "Интернет технологии",
+        "teachers": [
+            "Магдалена Костоска Ѓорчевска",
+            "Гоце Арменски"
+        ],
+        "classes": [
+            "2г. КИ",
+            "2г. Останати",
+            "2г. ПИТ-5",
+            "2г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*171": {
+        "subject": "Интернет технологии",
+        "teachers": [
+            "Александар Стојменски",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "2г. КИ",
+            "2г. ПИТ-5",
+            "2г. ПИТ-4"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*172": {
+        "subject": "Вовед во когнитивни науки",
+        "teachers": [
+            "Андреа Кулаков"
+        ],
+        "classes": [
+            "4г. Останати",
+            "4г. СИИС",
+            "4г. КН",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*173": {
+        "subject": "Напредни бази на податоци",
+        "teachers": [
+            "Горан Велинов"
+        ],
+        "classes": [
+            "4y. SEIS/KNIA",
+            "4г. ПИТ",
+            "4г. КН",
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*174": {
+        "subject": "Виртуелна реалност",
+        "teachers": [
+            "Сузана Лошковска"
+        ],
+        "classes": [
+            "4г. КН",
+            "4г. Останати",
+            "4г. СИИС",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*175": {
+        "subject": "Напредни бази на податоци",
+        "teachers": [
+            "Ненад Анчев"
+        ],
+        "classes": [
+            "4y. SEIS/KNIA",
+            "4г. ПИТ",
+            "4г. КН",
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*176": {
+        "subject": "Вовед во когнитивни науки",
+        "teachers": [
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "4г. Останати",
+            "4г. СИИС",
+            "4г. КН",
+            "4г. ПИТ"
+        ],
+        "classroom": {
+            "short": "Амф Педагаошка",
+            "name": "Амфитеатар Педагаошка"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*177": {
+        "subject": "Дигитална форензика",
+        "teachers": [
+            "Весна Димитрова"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*178": {
+        "subject": "Дигитална форензика",
+        "teachers": [
+            "Јована Добрева"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*179": {
+        "subject": "Управување со ИКТ проекти",
+        "teachers": [
+            "Димитар Трајанов",
+            "Љупчо Антовски"
+        ],
+        "classes": [
+            "4г. СИИС",
+            "4г. Останати"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*180": {
+        "subject": "Управување со ИКТ проекти",
+        "teachers": [
+            "Димитар Трајанов",
+            "Љупчо Антовски"
+        ],
+        "classes": [
+            "4г. ПИТ",
+            "4г. КИ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*181": {
+        "subject": "Управување со ИКТ проекти",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*182": {
+        "subject": "ИКТ во образованието",
+        "teachers": [
+            "Миле Јованов"
+        ],
+        "classes": [
+            "2г. Останати",
+            "2г. КЕ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*183": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Сашо Граматиков"
+        ],
+        "classes": [
+            "2г. ПИТ-4",
+            "2г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*184": {
+        "subject": "Оперативни системи",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "2г. ПИТ-4",
+            "2г. КЕ"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*185": {
+        "subject": "Object Oriented Analysis and Design",
+        "teachers": [
+            "Бојана Котеска"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "А-ФИНКИ",
+            "name": "Амфитеатар ФИНКИ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*186": {
+        "subject": "Психологија на училишна возраст",
+        "teachers": [
+            "Калина Сотироска"
+        ],
+        "classes": [
+            "3г. КЕ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*187": {
+        "subject": "Object oriented programming",
+        "teachers": [
+            "Дејан Ѓорѓевиќ"
+        ],
+        "classes": [
+            "1y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*188": {
+        "subject": "Електрични кола",
+        "teachers": [
+            "Коста Митрески"
+        ],
+        "classes": [
+            "2г. КИ"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*189": {
+        "subject": "Интернет технологии",
+        "teachers": [
+            "Магдалена Костоска Ѓорчевска",
+            "Гоце Арменски"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2y. SEIS/KNIA",
+            "2г.  КН",
+            "2г. СИИС-1",
+            "2г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*190": {
+        "subject": "Интернет технологии",
+        "teachers": [
+            "Вангел Ајановски"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. ПИТ-1",
+            "2г. ПИТ-3",
+            "2г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*191": {
+        "subject": "Интернет технологии",
+        "teachers": [
+            "Александар Стојменски",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2y. SEIS/KNIA",
+            "2г.  КН",
+            "2г. СИИС-1",
+            "2г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*192": {
+        "subject": "Integrated Systems",
+        "teachers": [
+            "Петре Ламески"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*193": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Сијче Печкова"
+        ],
+        "classes": [
+            "1г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*194": {
+        "subject": "Дискретна математика",
+        "teachers": [
+            "Петар Секулоски"
+        ],
+        "classes": [
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*195": {
+        "subject": "Криптографија",
+        "teachers": [
+            "Весна Димитрова",
+            "Христина Михајлоска"
+        ],
+        "classes": [
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*196": {
+        "subject": "Формални јазици и автомати",
+        "teachers": [
+            "Марија Михова"
+        ],
+        "classes": [
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*197": {
+        "subject": "Формални јазици и автомати",
+        "teachers": [
+            "Марија Михова"
+        ],
+        "classes": [
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*198": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Смилка Јанеска Саркањац"
+        ],
+        "classes": [
+            "1г. ПИТ-4",
+            "1г. СИИС-3",
+            "1г. ИМБ-2",
+            "1г. КИ",
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*199": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Ласко Баснарков"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*200": {
+        "subject": "Дизајн на компјутерски мрежи / WAN мрежи",
+        "teachers": [
+            "Кирил Ќироски"
+        ],
+        "classes": [
+            "4г. ИМБ"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*201": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Верица Бакева"
+        ],
+        "classes": [
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*202": {
+        "subject": "Бизнис статистика",
+        "teachers": [
+            "Верица Бакева"
+        ],
+        "classes": [
+            "1г. ПИТ-3"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*203": {
+        "subject": "Калкулус 2",
+        "teachers": [
+            "Ласко Баснарков"
+        ],
+        "classes": [
+            "1г. КИ"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*204": {
+        "subject": "Human-computer interaction design",
+        "teachers": [
+            "Иван Китановски",
+            "Бојан Илијоски",
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*205": {
+        "subject": "Визуелно програмирање",
+        "teachers": [
+            "Дејан Ѓорѓевиќ"
+        ],
+        "classes": [
+            "2г. ПИТ-1",
+            "2y. SEIS/KNIA",
+            "2г. ПИТ-2",
+            "2г. СИИС-2",
+            "2г.  КН",
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*206": {
+        "subject": "Визуелно програмирање",
+        "teachers": [
+            "Стефан Андонов"
+        ],
+        "classes": [
+            "2г. ПИТ-1",
+            "2y. SEIS/KNIA",
+            "2г. ПИТ-2",
+            "2г. СИИС-2",
+            "2г.  КН",
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*207": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Влатко Спасев",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. КИ",
+            "1y. SEIS/KNIA",
+            "1г. ПИТ-4",
+            "1г. КЕ"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*208": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Влатко Спасев",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. СИИС-2",
+            "1г. КН-2",
+            "1г. ИМБ-1",
+            "1г. КН-1"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*209": {
+        "subject": "Основи на веб дизајн",
+        "teachers": [
+            "Влатко Спасев",
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "1г. ПИТ-2",
+            "1г. ИМБ-2",
+            "1г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "225",
+            "name": "225 МФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            }
+        }
+    },
+    "*210": {
+        "subject": "Вградливи микропроцесорски системи",
+        "teachers": [
+            "Моника Симјаноска"
+        ],
+        "classes": [
+            "3г. КИ",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*211": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Сузана Лошковска",
+            "Иван Китановски",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "225",
+            "name": "225 МФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*212": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Иван Китановски",
+            "Бојан Илијоски",
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "225",
+            "name": "225 МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*213": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Сузана Лошковска",
+            "Иван Китановски",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. ИМБ",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*214": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Иван Китановски",
+            "Бојан Илијоски",
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "3г. ИМБ",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*215": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Иван Китановски",
+            "Бојан Илијоски",
+            "Влатко Спасев"
+        ],
+        "classes": [
+            "3г. КН",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*216": {
+        "subject": "Дизајн на интеракцијата човек-компјутер/Кориснички интерфејси",
+        "teachers": [
+            "Сузана Лошковска",
+            "Иван Китановски",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. КН",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "224",
+            "name": "224 МФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*217": {
+        "subject": "Интегрирани системи",
+        "teachers": [
+            "Иван Чорбев",
+            "Петре Ламески"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "Амф МФ",
+            "name": "Амфитеатар МФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*218": {
+        "subject": "Интегрирани системи",
+        "teachers": [
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*219": {
+        "subject": "Интегрирани системи",
+        "teachers": [
+            "Иван Чорбев",
+            "Петре Ламески"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. КН",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*220": {
+        "subject": "Интегрирани системи",
+        "teachers": [
+            "Димитар Китановски"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. КН",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*221": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Димитар Трајанов",
+            "Сашо Граматиков",
+            "Ристе Стојанов",
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA",
+            "3г. Останати"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*222": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Костадин Мишев",
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA",
+            "3г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*223": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Димитар Трајанов",
+            "Сашо Граматиков",
+            "Ристе Стојанов",
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "3г. ПИТ-2",
+            "3г. ИМБ",
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*224": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Костадин Мишев",
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "3г. ПИТ-2",
+            "3г. КН",
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*225": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Димитар Трајанов",
+            "Сашо Граматиков",
+            "Ристе Стојанов",
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б1",
+            "name": "Барака 1"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*226": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Костадин Мишев",
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Амф Педагаошка",
+            "name": "Амфитеатар Педагаошка"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*227": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Костадин Мишев",
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*228": {
+        "subject": "Електронска и мобилна трговија",
+        "teachers": [
+            "Димитар Трајанов",
+            "Сашо Граматиков",
+            "Ристе Стојанов",
+            "Костадин Мишев"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*229": {
+        "subject": "Дигитални библиотеки",
+        "teachers": [
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. Останати",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*230": {
+        "subject": "Дигитални библиотеки",
+        "teachers": [
+            "Магдалена Костоска Ѓорчевска",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "4г. СИИС",
+            "4y. SEIS/KNIA",
+            "4г. КИ",
+            "4г. КН",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*231": {
+        "subject": "Дигитални библиотеки",
+        "teachers": [
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "4г. СИИС",
+            "4y. SEIS/KNIA",
+            "4г. КИ",
+            "4г. КН",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*232": {
+        "subject": "Вградливи микропроцесорски системи",
+        "teachers": [
+            "Невена Ацковска",
+            "Моника Симјаноска"
+        ],
+        "classes": [
+            "3г. КИ",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*233": {
+        "subject": "Машинско учење",
+        "teachers": [
+            "Александра Дединец",
+            "Мирослав Мирчев"
+        ],
+        "classes": [
+            "3г. СИИС",
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*234": {
+        "subject": "Машинско учење",
+        "teachers": [
+            "Александра Дединец",
+            "Мирослав Мирчев"
+        ],
+        "classes": [
+            "3г. СИИС",
+            "3г. КН"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*235": {
+        "subject": "Континуирана интеграција и испорака",
+        "teachers": [
+            "Милош Јовановиќ",
+            "Панче Рибарски"
+        ],
+        "classes": [
+            "3y. SEIS/KNIA",
+            "3г. СИИС",
+            "3г. КН",
+            "3г. ПИТ-2",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*236": {
+        "subject": "Мултимедиски системи",
+        "teachers": [
+            "Билјана Стојкоска Ристеска"
+        ],
+        "classes": [
+            "3г. КИ",
+            "3г. ИМБ",
+            "3г. СИИС",
+            "3y. SEIS/KNIA",
+            "3г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*237": {
+        "subject": "Мултимедиски системи",
+        "teachers": [
+            "Билјана Стојкоска Ристеска"
+        ],
+        "classes": [
+            "3г. КН",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*238": {
+        "subject": "Дигитални библиотеки",
+        "teachers": [
+            "Магдалена Костоска Ѓорчевска",
+            "Бојан Илијоски"
+        ],
+        "classes": [
+            "3г. Останати",
+            "3г. ПИТ-2"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*239": {
+        "subject": "ИКТ во образованието",
+        "teachers": [
+            "Емил Станков"
+        ],
+        "classes": [
+            "2г. Останати",
+            "2г. КЕ"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*240": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Смилка Јанеска Саркањац"
+        ],
+        "classes": [
+            "1г. ПИТ-5",
+            "1г. КЕ",
+            "1г. СИИС-1",
+            "1y. SEIS/KNIA",
+            "1г. КН-2",
+            "1г. СИИС-2",
+            "1г. КН-1",
+            "1г. ИМБ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*241": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Смилка Јанеска Саркањац"
+        ],
+        "classes": [
+            "1г. ПИТ-2",
+            "1г. ПИТ-1"
+        ],
+        "classroom": {
+            "short": "Б 3.2",
+            "name": "Барака 3.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*242": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Славе Темков"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "225",
+            "name": "225 МФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*243": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Ѓорѓи Маџаров"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*244": {
+        "subject": "Вовед во мрежна наука / Моделирање и симулација на комуникациски мрежи",
+        "teachers": [
+            "Мирослав Мирчев"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*245": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Ана Тодоровска"
+        ],
+        "classes": [
+            "3г. ПИТ-1",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "117",
+            "name": "117 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*246": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Славе Темков"
+        ],
+        "classes": [
+            "3г. ПИТ-2",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*247": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Христина Михајлоска"
+        ],
+        "classes": [
+            "3г. ПИТ-2",
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "Амф Педагаошка",
+            "name": "Амфитеатар Педагаошка"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            },
+            "end": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            }
+        }
+    },
+    "*248": {
+        "subject": "Софтверски квалитет и тестирање",
+        "teachers": [
+            "Бојана Котеска"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "Б 2.2",
+            "name": "Барака 2.2"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*249": {
+        "subject": "Виртуелизација",
+        "teachers": [
+            "Боро Јакимовски"
+        ],
+        "classes": [
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "8:00 - 8:45",
+                "startTime": "08:00",
+                "endTime": "08:45"
+            },
+            "end": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            }
+        }
+    },
+    "*250": {
+        "subject": "Виртуелизација",
+        "teachers": [
+            "Кирил Ќироски"
+        ],
+        "classes": [
+            "3г. ИМБ"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*251": {
+        "subject": "Процесирање на сигналите / Дигитално процесирање на сигнали",
+        "teachers": [
+            "Ласко Баснарков"
+        ],
+        "classes": [
+            "3г. Останати",
+            "3г. КИ"
+        ],
+        "classroom": {
+            "short": "Б 2.1",
+            "name": "Барака 2.1"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*252": {
+        "subject": "Учење на далечина",
+        "teachers": [
+            "Гоце Арменски"
+        ],
+        "classes": [
+            "3г. СИИС",
+            "3г. КЕ",
+            "3г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            }
+        }
+    },
+    "*253": {
+        "subject": "Компјутерска анимација",
+        "teachers": [
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "4г. ПИТ",
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*254": {
+        "subject": "Основи на компјутерска графика/Компјутерска графика",
+        "teachers": [
+            "Бобан Јоксимоски"
+        ],
+        "classes": [
+            "2г. СИИС-2",
+            "2г. СИИС-3"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Петок",
+        "time": {
+            "start": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*255": {
+        "subject": "Теорија на информации со дигитални комуникации",
+        "teachers": [
+            "Александра Поповска Митровиќ"
+        ],
+        "classes": [
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "203",
+            "name": "203 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*256": {
+        "subject": "Теорија на информации со дигитални комуникации",
+        "teachers": [
+            "Александра Поповска Митровиќ"
+        ],
+        "classes": [
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "14:00 - 14:45",
+                "startTime": "14:00",
+                "endTime": "14:45"
+            }
+        }
+    },
+    "*257": {
+        "subject": "Складишта на податоци и аналитичка обработка",
+        "teachers": [
+            "Горан Митров"
+        ],
+        "classes": [
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*258": {
+        "subject": "Складишта на податоци и аналитичка обработка",
+        "teachers": [
+            "Ефтим Здравевски"
+        ],
+        "classes": [
+            "4г. СИИС"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*259": {
+        "subject": "Анализа на софтверските барања",
+        "teachers": [
+            "Георгина Мирчева"
+        ],
+        "classes": [
+            "2г. СИИС-1",
+            "2г. СИИС-2"
+        ],
+        "classroom": {
+            "short": "315",
+            "name": "315 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            }
+        }
+    },
+    "*260": {
+        "subject": "Анализа на софтверските барања",
+        "teachers": [
+            "Ефтим Здравевски"
+        ],
+        "classes": [
+            "2г. СИИС-3",
+            "2г. СИИС-1"
+        ],
+        "classroom": {
+            "short": "223",
+            "name": "223 ФЕИТ"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "19:00 - 19:45",
+                "startTime": "19:00",
+                "endTime": "19:45"
+            }
+        }
+    },
+    "*261": {
+        "subject": "Маркетинг",
+        "teachers": [
+            "Петар Рогачиќ"
+        ],
+        "classes": [
+            "1г. ПИТ-5",
+            "1г. КЕ",
+            "1г. СИИС-1",
+            "1y. SEIS/KNIA",
+            "1г. КН-2",
+            "1г. СИИС-2",
+            "1г. КН-1",
+            "1г. ИМБ-1"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    },
+    "*262": {
+        "subject": "Сервисно ориентирани архитектури",
+        "teachers": [
+            "Панче Рибарски"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "11:00 - 11:45",
+                "startTime": "11:00",
+                "endTime": "11:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*263": {
+        "subject": "Сервисно ориентирани архитектури",
+        "teachers": [
+            "Стефан Кочев"
+        ],
+        "classes": [
+            "3г. СИИС"
+        ],
+        "classroom": {
+            "short": "ЛАБ.138",
+            "name": "ЛАБ.138"
+        },
+        "day": "Понеделник",
+        "time": {
+            "start": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            },
+            "end": {
+                "name": "13:00 - 13:45",
+                "startTime": "13:00",
+                "endTime": "13:45"
+            }
+        }
+    },
+    "*264": {
+        "subject": "Вовед во случајни процеси/Случајни процеси",
+        "teachers": [
+            "Верица Бакева"
+        ],
+        "classes": [
+            "2г.  КН"
+        ],
+        "classroom": {
+            "short": "203",
+            "name": "203 ТМФ"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "12:00 - 12:45",
+                "startTime": "12:00",
+                "endTime": "12:45"
+            }
+        }
+    },
+    "*265": {
+        "subject": "Географски информациски системи",
+        "teachers": [
+            "Андреја Наумоски"
+        ],
+        "classes": [
+            "4г. Останати"
+        ],
+        "classroom": {
+            "short": "online",
+            "name": "online"
+        },
+        "day": "Четврток",
+        "time": {
+            "start": {
+                "name": "15:00 - 15:45",
+                "startTime": "15:00",
+                "endTime": "15:45"
+            },
+            "end": {
+                "name": "16:00 - 16:45",
+                "startTime": "16:00",
+                "endTime": "16:45"
+            }
+        }
+    },
+    "*266": {
+        "subject": "Дизајн на компјутерски мрежи / WAN мрежи",
+        "teachers": [
+            "Александра Дединец"
+        ],
+        "classes": [
+            "4г. ИМБ"
+        ],
+        "classroom": {
+            "short": "112",
+            "name": "112 ФЕИТ"
+        },
+        "day": "Вторник",
+        "time": {
+            "start": {
+                "name": "9:00 - 9:45",
+                "startTime": "09:00",
+                "endTime": "09:45"
+            },
+            "end": {
+                "name": "10:00 - 10:45",
+                "startTime": "10:00",
+                "endTime": "10:45"
+            }
+        }
+    },
+    "*267": {
+        "subject": "Управување со ИКТ проекти",
+        "teachers": [
+            "Милена Трајаноска"
+        ],
+        "classes": [
+            "4г. ПИТ",
+            "4г. КИ",
+            "4г. Останати"
+        ],
+        "classroom": {
+            "short": "216",
+            "name": "216 ТМФ"
+        },
+        "day": "Среда",
+        "time": {
+            "start": {
+                "name": "17:00 - 17:45",
+                "startTime": "17:00",
+                "endTime": "17:45"
+            },
+            "end": {
+                "name": "18:00 - 18:45",
+                "startTime": "18:00",
+                "endTime": "18:45"
+            }
+        }
+    }
+}
