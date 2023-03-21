@@ -9,7 +9,7 @@ Example data
 {
   "*207": {
     "subject": "Основи на веб дизајн",
-    "teachers": ["Влатко Спасев", "Димитар Китановски"],
+    "teachers": ["TEACHER_NAME"],
     "classes": ["1г. КИ", "1y. SEIS/KNIA", "1г. ПИТ-4", "1г. КЕ"],
     "classroom": {
       "short": "223",
